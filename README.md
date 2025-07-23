@@ -16,7 +16,7 @@ A simple browser-based Tic Tac Toe game where you play as **X** and the CPU play
 ## 🎮 How It Works
 - Click any cell to make your move
 - CPU will automatically respond
-- Game ends when someone wins or it’s a draw
+- Game ends when someone wins or it’s a draw.
 
 ## 🔗 Live Demo
 [Play Now](https://PraneethKudurumalla.github.io/tic-tac-toe/)
