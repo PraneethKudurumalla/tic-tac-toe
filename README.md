@@ -19,4 +19,4 @@ A simple browser-based Tic Tac Toe game where you play as **X** and the CPU play
 - Game ends when someone wins or it’s a draw
 
 ## 🔗 Live Demo
-[Play Now](https://AdithyaDarga.github.io/tic-tac-toe/)
+[Play Now](https://PraneethKudurumalla.github.io/tic-tac-toe/)
